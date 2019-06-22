@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
 MERGED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\10fbd3b56280e7fc1dbc6292a5d8fc23\AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\efee13576f69d45bbe65643c03b3a4a5\AndroidManifest.xml:2:1-11:12
@@ -28,37 +28,37 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zhang\.grad
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\46fad5b40a4507b122c52a3d665cab52\AndroidManifest.xml:17:1-31:12
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\e79199c65183baeaf7952043de48b49e\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\5d01d0c23ddc07f3b0332db0e348c4e2\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
 	package
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:19:5-51
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:1-40:12
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:21:5-65
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:21:22-62
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:23:5-60
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:23:5-60
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:23:19-57
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:23:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:24:5-70
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:24:19-67
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:24:19-67
 application
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:26:5-38:19
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:26:5-38:19
 MERGED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\10fbd3b56280e7fc1dbc6292a5d8fc23\AndroidManifest.xml:25:5-20
@@ -104,33 +104,33 @@ MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\zhang\.gradle\cache
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\5d01d0c23ddc07f3b0332db0e348c4e2\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\5d01d0c23ddc07f3b0332db0e348c4e2\AndroidManifest.xml:24:5-28:19
 	android:label
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:27:9-41
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:28:9-45
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:28:9-45
 	android:allowBackup
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:26:18-44
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:26:18-44
 	android:theme
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:29:9-45
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:29:9-45
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:31:9-37:20
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:31:9-37:20
 	android:label
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:32:19-51
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:32:19-51
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:31:19-85
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:31:19-85
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:33:13-36:29
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\10fbd3b56280e7fc1dbc6292a5d8fc23\AndroidManifest.xml:21:5-23:78
@@ -179,18 +179,18 @@ MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\zhang\.gradle\cache
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\e79199c65183baeaf7952043de48b49e\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\5d01d0c23ddc07f3b0332db0e348c4e2\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\5d01d0c23ddc07f3b0332db0e348c4e2\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.2.0] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\0db1c62e53f5a20e7f55de2f36c8e46b\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-politician-recognition\tflite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhang\Documents\GitHub\Australian-Politician-Face-Recognition\AndroidApplication\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\zhang\.gradle\caches\transforms-2\files-2.1\6d90c1647c3c639f4cfdcab64d5676f5\AndroidManifest.xml:23:9-26:75
 	android:exported

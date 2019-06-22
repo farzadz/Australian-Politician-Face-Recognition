@@ -786,6 +786,7 @@ public class Camera2BasicFragment extends Fragment
     }
   }
 
+  /** Extract all faces from the frame.*/
   SparseArray<Face> extractFace(Bitmap bitmap) {
     FaceDetector detector = new FaceDetector.Builder(getActivity().getApplicationContext()).setTrackingEnabled(true).build();
     Frame frame = new Frame.Builder().setBitmap(bitmap).build();
@@ -793,6 +794,7 @@ public class Camera2BasicFragment extends Fragment
     return faces;
   }
 
+  /** Store all locations for all faces.*/
   private Map<Integer, float[]> locateFace(SparseArray<Face> faces, Bitmap bitmap) {
     Map<Integer, float[]> faceLocation = new HashMap<Integer, float[]>();
 
@@ -805,6 +807,7 @@ public class Camera2BasicFragment extends Fragment
     return faceLocation;
   }
 
+  /** Create Bitmaps for all faces.*/
   private Map<Integer, Bitmap> getFaceBitmap(Bitmap bitmap, Map<Integer,float[]> location) {
     Map<Integer, Bitmap> FaceMap = new HashMap<Integer, Bitmap>();
     float w = bitmap.getWidth();
@@ -839,6 +842,7 @@ public class Camera2BasicFragment extends Fragment
     return  FaceMap;
   }
 
+  /** Draw bounding boxes and labels on the canvas of the SurfaceView.*/
   private void draw_Box(String label, float[] f, Canvas c) {
     float x = f[0];
     float y = f[1];
@@ -875,6 +879,7 @@ public class Camera2BasicFragment extends Fragment
     }
   }
 
+  /** Give an order to all extracted faces from left to right*/
   private SparseArray<Face> sortFace(SparseArray<Face> faces) {
     float[] xs = new float[faces.size()];
     SparseArray<Face> newFaces = new SparseArray<Face>();
