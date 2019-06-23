@@ -8,7 +8,7 @@ The source code has been tested on Ubuntu 18.04 LTS with a NVIDIA Tesla K80 12GB
 
 ### Environment Setup
 
-To install all required packages and GPU driver, run setupScript.sh.
+To install all required packages and GPU driver, run setup.sh.
 
 ### Data Collection and Pre-processing
 
