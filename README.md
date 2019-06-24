@@ -21,7 +21,7 @@ Please find related code under DataCollection directory.
 
 ### Web Service
 
-Docker image is avaialable via dockerhub `farzadz/vggface:1.4` image. For more information check `Web Service` directory.
+Docker image is avaialable via dockerhub `farzadz/vggface:1.4` image. For more information check `WebService` directory.
 
 ### Android Mobile Application
 
